@@ -61,6 +61,14 @@
       "title": "Tênis de Caminhada Leve Confortável",
       "price": 179.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    },
+    {
+      "productId": 1,
+      "id": 7
+    },
+    {
+      "productId": 1,
+      "id": 8
     }
   ]
 }
